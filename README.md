@@ -1,4 +1,4 @@
-# Google-Voice-Recognition
+# Google-Voice-Recogniser
 A Python program for speech-to-text conversion
 
 ## Technologies Used 
