@@ -13,7 +13,7 @@ A Python program for speech-to-text conversion
 ## Installation of modules 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the module
 ```
-pip install speech_recognition
+pip install pyaudio
 ```
 ```
 pip install pyttsx3
