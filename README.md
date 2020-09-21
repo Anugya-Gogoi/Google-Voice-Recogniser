@@ -2,7 +2,7 @@
 A Python program for speech-to-text conversion
 
 ## Technologies Used 
-1. speech_recognition library
+1. speech_recognition library of PyAudio
 2. pyttsx3 library
 
 ## How to use :
