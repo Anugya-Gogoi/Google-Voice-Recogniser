@@ -2,8 +2,8 @@
 A Python program for speech-to-text conversion
 
 ## Technologies Used 
-1. speech_recognition module
-2. pyttsx3 module
+1. speech_recognition library
+2. pyttsx3 library
 
 ## How to use?
 1. Make a .py file in your python text editor
