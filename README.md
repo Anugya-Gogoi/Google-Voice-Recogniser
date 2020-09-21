@@ -5,10 +5,9 @@ A Python program for speech-to-text conversion
 1. speech_recognition library
 2. pyttsx3 library
 
-## How to use?
-1. Make a .py file in your python text editor
-2. Install the required modules (pyttsx3 and pyaudio)
-3. Write the entire code of audio1.py
+## How to use :
+1. Install the required modules (PyAudio and pyttsx3)
+2. Open the file audio1.py in your Python text editor
 
 ## Installation of modules 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the module
