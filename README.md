@@ -21,3 +21,6 @@ pip install pyttsx3
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Credits
+https://github.com/soumilshah1995/python-youtube-tutorials/blob/master/google%20voice%20recognition%20%20and%20text%20to%20speech%20with%20python%20using%20pyaudio.py
